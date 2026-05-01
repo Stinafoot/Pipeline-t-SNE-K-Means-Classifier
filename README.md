@@ -2,8 +2,6 @@
 
 # Research question: How effective is a pipeline combining t-SNE, K-Means clustering, and supervised learning for classifying wine quality?
 
-We are going to build a pipeline as part of this assignment.
-
 Pipeline: t-SNE + K-Means + Classifier
 Raw data → Standardization → t-SNE embedding → K-Means on the t-SNE space → Augment t-SNE features with cluster labels → Supervised classifier
 
