@@ -123,11 +123,12 @@ can improve classification performance by introducing meaningful structure into 
 
 ## Tech Stack
 
-- Python
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib / Seaborn
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-blue?logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/NumPy-Data_Processing-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-4C72B0)
 
 ---
 
